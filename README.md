@@ -4,7 +4,7 @@ The project was carried out as a part of the ACN course offered at PES Universit
 # Description 
 The objective of the project was to design a network topology for the given problem scenario and implement some requirements using coding.
 One of the requirements of the given scenario was to implement a network monitor system that would monitor the current active hosts that are connected with the server, thus to implement this zookeeper along with docker containers were used.
-<br/>The proposed topology is shown below.<br/>
+<br/>The topology is implemented using Cisco Packet Tracer and is shown below.<br/>
  ![Alt text](topo.png)
 
 # Requirements
