@@ -83,3 +83,5 @@ $sudo docker stop container-name
 $sudo docker rm container-name
 $sudo docker rmi image-name
 ```
+#License
+This project is licensed under the [MIT License](https://github.com/SKsaqlain/ACN-University/edit/master/LICENSE.md)
